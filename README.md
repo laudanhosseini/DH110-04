@@ -1,4 +1,5 @@
-# DH110-04
+# DH 110 Assignment #4: UX Storytelling
+## Laudan Hosseini, DH110-04
 
 UX storytelling helps us better understand the wants and needs of consumers for different websites, programs, or applications. By understanding the goals, motivations, challenges, and overall stories of potential users, we are able to understand their perceptions and enhance usability/accessibility. For this project, we are creating two personas and empathy maps for an online reading platform, such as Audible or Audiobooks HQ. We wanted to build one persona around the aspect of improving the advanced tool bar so that users can efficiently find the exact texts they are looking for as fast as possible. We wanted to build a second persona in order to tackle the structural and organizational issues of reading applications, namely in organizing the users' downloaded texts in a more sensible and interactive way.  
 
